@@ -1,0 +1,31 @@
+s3 bucket videos
+https://www.youtube.com/watch?v=iQrOmbCiFBs
+
+adding data to s3 bucket and display:
+https://www.youtube.com/watch?v=64dnqaixT3w
+
+
+creating a s3bucket and pushing files
+https://stackabuse.com/aws-s3-with-java-uploading-files-creating-and-deleting-s3-buckets
+
+
+spring boot to aws lambda conversion:
+
+https://medium.com/@pratik.sathe1987/deploying-spring-boot-microservice-on-aws-lambda-part-2-10eecd566fce
+function-contributed records,, api gateway - rest-api
+{
+    "dataSourceId":"1",
+    "schemaID":"e26c1488-6641-4df2-bfd5-a968c42d007d",
+    "schemaVersion":"v1",
+    "records":{"tenant_id": "99bf0456-b275-4550-8164-06236b519ab3",
+    "name": "Adventist Health System - Validation",
+    "mnemonic": "adventisthealthsystemvalidatio",
+    "default_locale": "en-US",
+    "timezone": "UTC",
+    "tenant_status_state": "ONBOARDING",
+    "start_date": "2018-07-03",
+    "region": "us",
+    "created_at": "2018-07-04 01:16:06",
+    "updated_at": "2018-07-10 06:30:53"
+    }
+}
